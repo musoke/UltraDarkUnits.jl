@@ -4,3 +4,6 @@ UltraDarkUnits = "4c479948-c3e0-4b61-851c-015dabdc56f8"
 
 [sources]
 UltraDarkUnits = {path = ".."}
+
+[compat]
+Documenter = "1.19.0"
