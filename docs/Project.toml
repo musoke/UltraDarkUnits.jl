@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+UltraDarkUnits = "4c479948-c3e0-4b61-851c-015dabdc56f8"
+
+[sources]
+UltraDarkUnits = {path = ".."}
