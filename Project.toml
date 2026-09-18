@@ -1,0 +1,7 @@
+name = "UltraDarkUnits"
+uuid = "4c479948-c3e0-4b61-851c-015dabdc56f8"
+authors = ["Nathan Musoke <nathan.musoke@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
