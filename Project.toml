@@ -1,7 +1,13 @@
 name = "UltraDarkUnits"
 uuid = "4c479948-c3e0-4b61-851c-015dabdc56f8"
-authors = ["Nathan Musoke <nathan.musoke@gmail.com> and contributors"]
 version = "1.0.0-DEV"
+authors = ["Nathan Musoke <nathan.musoke@gmail.com> and contributors"]
+
+[deps]
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulAstro = "6112ee07-acf9-5e0f-b108-d242c714bf9f"
 
 [compat]
+Unitful = "1.29.0"
+UnitfulAstro = "1.2.2"
 julia = "1.10"
